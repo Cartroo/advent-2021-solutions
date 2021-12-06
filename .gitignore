@@ -1,0 +1,5 @@
+**/rust/debug/
+**/rust/target/
+*.rs.bk
+*.pyc
+
