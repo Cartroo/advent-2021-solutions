@@ -5,3 +5,5 @@ This is where I'm keeping my solutions to the [advent of code 2021](https://adve
 
 It's important to note that I make no claims as to the quality of this code -- it's written quickly to get to a solution, and it's not intended as an example of production quality coding styles.
 
+The code always accepts its input on `stdin`. For some puzzles, I've also captured the sample inputs for testing purposes, and these are in files named typically `sample.txt` or similar.
+
